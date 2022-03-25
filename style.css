@@ -1,0 +1,32 @@
+html,
+body {
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    min-height: 100%;
+}
+
+#naslov {
+    background-color: bisque;
+    text-align: center;
+    font-size: 20px;
+}
+
+.navbar {
+    background-color: bisque;
+}
+
+#vsebina {
+    width: 1000px;
+    height: 100px;
+}
+
+footer {
+    background-color: bisque;
+    margin: auto;
+    position: relative;
+}
+
+#footer-center {
+    font-size: 16px;
+    text-align: center;
+}
